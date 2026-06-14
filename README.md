@@ -1,14 +1,17 @@
 📊 Amazon Sales Dashboard (Power BI)
 
+
 📌 Project Overview
 This project focuses on designing an interactive **E-Commerce Sales Dashboard** using **Power BI** to analyze sales performance, customer behavior, product trends, and regional performance. The dashboard provides business stakeholders with actionable insights through dynamic visualizations, KPIs, and interactive filters.
 
 The objective of this project is to demonstrate **data visualization, business intelligence, and dashboard development skills** using Power BI, making it suitable for **GitHub portfolios, internships, and entry-level Data Analyst roles**.
 
 
+
 🗂 Dataset Description
 
 The dataset contains sales transaction records from an e-commerce business.
+
 
 🔑 Key Columns
 
@@ -25,12 +28,14 @@ The dataset contains sales transaction records from an e-commerce business.
 * Payment Mode – Payment method used
 
 
+
 🛠 Tools & Technologies Used
 
 * **Power BI**
 * **Power Query**
 * **DAX (Data Analysis Expressions)**
 * **Excel / CSV Dataset**
+
 
 
 🧹 Data Preparation
@@ -40,6 +45,7 @@ The dataset contains sales transaction records from an e-commerce business.
 * Verified data consistency and formatting
 * Created calculated measures using DAX
 * Established relationships between tables (if applicable)
+
 
 
 📊 Dashboard Features
@@ -75,6 +81,7 @@ The dataset contains sales transaction records from an e-commerce business.
 * Enables detailed drill-down analysis
 
 
+
 📈 Visualizations Included
 
 * KPI Cards
@@ -87,6 +94,7 @@ The dataset contains sales transaction records from an e-commerce business.
 * Interactive Slicers
 
 
+
 💡 Key Business Insights
 
 * Certain states contribute significantly higher revenue than others.
@@ -94,6 +102,7 @@ The dataset contains sales transaction records from an e-commerce business.
 * Digital payment methods are preferred by most customers.
 * Sales show noticeable seasonal fluctuations throughout the year.
 * Interactive filtering allows deeper exploration of customer and product trends.
+
 
 
 📸 Dashboard Preview
@@ -107,7 +116,7 @@ The dataset contains sales transaction records from an e-commerce business.
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
+https://github.com/dishant8bit/Amazon-Sales-Dashboard-Power-BI.git
 ```
 
 2. Open the Power BI File
@@ -123,6 +132,7 @@ E-Commerce Sales Dashboard.pbix
 * Click Refresh
 
 
+
 🚀 Future Improvements
 
 * Add customer segmentation analysis
@@ -130,6 +140,7 @@ E-Commerce Sales Dashboard.pbix
 * Implement advanced DAX calculations
 * Publish dashboard to Power BI Service
 * Add real-time data integration
+
 
 
 👤 Author
